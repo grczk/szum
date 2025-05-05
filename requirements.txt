@@ -3,3 +3,7 @@ pillow~=11.1.0
 ipython~=8.30.0
 matplotlib~=3.10.0
 tensorflow~=2.19.0
+timm
+torch
+torchvision
+tqdm
